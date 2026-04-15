@@ -1,9 +1,7 @@
 # 📊 Stock Market Analysis & Prediction (Coal India)
 
 ## 🚀 Project Overview  
-This project analyzes **5 years (2019–2024)** of stock market data for Coal India Limited to understand trends, extract insights, and build a foundation for stock price prediction.  
-
-The workflow includes **data cleaning in Excel** and **interactive visualization using Power BI**.
+This project analyzes **5 years (2019–2024)** of stock market data for Coal India Limited to understand trends, extract insights, and build a foundation for stock price prediction. The workflow includes **data cleaning in Excel** and **interactive visualization using Power BI**.
 
 ---
 
