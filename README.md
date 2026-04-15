@@ -31,10 +31,7 @@ The workflow includes **data cleaning in Excel** and **interactive visualization
 - 📌 **Post-COVID Recovery:** Noticeable rise in both price and volume after 2020  
 - 📌 **Positive Sentiment:** Closing prices often remain close to or above opening prices  
 
----
 
-## 📊 Dashboard Preview  
-![Dashboard](dashboard.png)
 
 ---
 
